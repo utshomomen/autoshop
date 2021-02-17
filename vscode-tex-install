@@ -1,0 +1,20 @@
+
+npm run react
+
+bootstrapwatch
+npm i react-bootstrap bootstrap
+npm i react-router-dom react-router-bootstrap
+
+
+in root folder of react
+npm i express
+
+npm start
+
+
+
+npm i axios(httpaccess)
+
+nom i -D nodemon concurrently
+
+npm i dotenv
