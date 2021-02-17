@@ -1,7 +1,7 @@
 # autoshop
 
-<img src="src/assets//webpic1.png" >
-<img src="src/assets//webpic2.png" >
+<img src="frontend/public/images/1.png" >
+<img src="frontend/public/images/2.png" >
 
 
 ##npm install
